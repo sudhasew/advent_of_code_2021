@@ -6,9 +6,7 @@ const depths = fs
   .map((x) => parseInt(x));
 let counter = 0;
 for (let i = 1; i < depths.length; i++) {
-  const last = depths[i - 1];
-  const current = depths[i];
-  if (current > last) {
+  if (depths[i] > depths[i - 1]) {
     counter++;
   }
 }
