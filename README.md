@@ -4,4 +4,4 @@ This Advent of code challenge is very interesting to solve. This challenge can b
 
 # 📆 Calendar
 
-1. https://github.com/sudhasew/advent_of_code_2021_1.git
+1. [Advent of code Day 1](https://github.com/sudhasew/advent_of_code_2021_1.git)
