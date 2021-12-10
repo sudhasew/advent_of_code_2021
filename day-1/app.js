@@ -11,7 +11,3 @@ for (let i = 1; i < depths.length; i++) {
   }
 }
 console.log(counter);
-
-// for (let i in depths) {
-//   console.log(depths[i]);
-// }
