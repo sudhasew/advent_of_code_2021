@@ -1,6 +1,6 @@
 # 🏇 Advent of code 2021
 
-<sub>This Advent of code challenge is very interesting to solve. This challenge can be solved by any programming language of interest. We can take multiple attempts to solve.The problems are difficult, but not impossible.</sub>
+This Advent of code challenge is very interesting to solve. This challenge can be solved by any programming language of interest. We can take multiple attempts to solve.The problems are difficult, but not impossible.
 
 # 📆 Calendar
 
@@ -8,4 +8,4 @@
 
 # 📜 License
 
-<sub>This code is released under the MIT license. You may use it as you wish. All applicable Advent of Code restrictions apply. Full credit to them for the challenges.</sub>
+This code is released under the MIT license. You may use it as you wish. All applicable Advent of Code restrictions apply. Full credit to them for the challenges.
