@@ -5,7 +5,8 @@ This Advent of code challenge is very interesting to solve. This challenge can b
 # 📆 Calendar
 
 1. [Advent of code Day 1](https://github.com/sudhasew/advent_of_code_2021_1/tree/main/day-1)
-2. [Advent of code Day 2](https://github.com/sudhasew/advent_of_code_2021_1/tree/main/day-2) 3.[Advent of code Day 3](https://github.com/sudhasew/advent_of_code_2021/tree/main/day-3)
+2. [Advent of code Day 2](https://github.com/sudhasew/advent_of_code_2021_1/tree/main/day-2)
+3. [Advent of code Day 3](https://github.com/sudhasew/advent_of_code_2021/tree/main/day-3)
 
 # 📜 License
 
