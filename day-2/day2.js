@@ -1,5 +1,4 @@
 const fs = require("fs");
-//const { resourceLimits } = require("worker_threads");
 const depths = fs.readFileSync("input.txt").toString().split("\n");
 
 //PART ONE
