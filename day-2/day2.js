@@ -13,15 +13,15 @@ for (let i = 0; i < depths.length; i++) {
   if (input == "forward") {
     x = x + parseInt(num);
     y = y;
-    console.log("forwardOne", x, y);
+    console.log("forwardSide", x, y);
   } else if (input == "down") {
     x = x;
     y = y - parseInt(num);
-    console.log("downOne", x, y);
+    console.log("downSide", x, y);
   } else if (input == "up") {
     x = x;
     y = y + parseInt(num);
-    console.log("upOne", x, y);
+    console.log("upSide", x, y);
   }
 }
 console.log(Math.abs(x));
