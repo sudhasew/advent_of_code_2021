@@ -19,7 +19,7 @@ for (const depth of depths) {
   });
 }
 
-//Calculating gammaRate
+//Calculating gamma Rate
 let gammaRate = "";
 for (let i = 0; i < length; i++) {
   let bit = 0;
